@@ -1,7 +1,7 @@
 APP_ID="YOUR ID"
 API_KEY="YOUR API ID"	
 EXCERCISE_ENDPOINT="https://trackapi.nutritionix.com/v2/natural/exercise"
-SHEETY_ENDPOINT="https://api.sheety.co/7359ee50cb5d3a4c85c5d7e78b929b51/workoutTracker/workouts"
+SHEETY_ENDPOINT="YOUR OWN URL WITH PROJECT NAME"
 TOKEN="YOUR SECRET TOKEN"
 GENDER="male"
 AGE="20"
